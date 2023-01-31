@@ -32,7 +32,7 @@
 | `NERSOTA-ELECTRA-NER`     |           0.77 |
 
 
-# NERSOTA-ELECTRA-small on 🤗 Transformers 🤗
+# NERSOTA-ELECTRA-small on Transformers
 
 ## 1. Pytorch Model & Tokenizer
 
