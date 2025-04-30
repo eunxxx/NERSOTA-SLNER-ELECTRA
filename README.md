@@ -28,6 +28,7 @@
 | Model                     | Macro F1 score |
 | :------------------------ | -------------: |
 | `KoBERT-NER(Naver NER)`   |           0.34 |
+| `NERSOTA-BERT-base`       |           0.76 |
 | `KoELECTRA-NER(Finetuned)`|           0.80 |
 | `NERSOTA-ELECTRA-NER`     |           0.90 |
 
