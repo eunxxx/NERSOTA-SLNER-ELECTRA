@@ -29,7 +29,7 @@
 | :------------------------ | -------------: |
 | `KoBERT-NER(Naver NER)`   |           0.34 |
 | `KoELECTRA-NER(Finetuned)`|           0.80 |
-| `NERSOTA-ELECTRA-NER`     |           0.77 |
+| `NERSOTA-ELECTRA-NER`     |           0.90 |
 
 
 # NERSOTA-ELECTRA-small on Transformers
